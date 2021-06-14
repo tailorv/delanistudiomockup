@@ -1,5 +1,5 @@
 body {
-    font-family: 'Manrope', sans-serif;
+    font-family: 'Dancing Script', sans-serif;
     text-align: center;
     display: grid;
     grid-template-rows: auto auto auto auto auto auto auto;
@@ -17,11 +17,12 @@ body {
     margin-top: 0px;
     padding-top: 12%;
     width: 100%;
-    font-size: larger;
+    font-size:30px
 }
 
 .welcome h3 {
     padding-top: 15px;
+    font-size: 50px
 }
 
 .welcome p {
@@ -42,6 +43,7 @@ body {
     padding-bottom: 5%;
     text-align: center;
     color: black;
+    font-size: 30px
 }
 
 .services {
@@ -53,12 +55,14 @@ body {
     padding-top: 10%;
     padding-bottom: 7%;
     color: white;
+    font-size: 30px
 }
 
 .toggle {
     grid-row-start: 4;
     grid-row-end: 5;
     padding-top: 3%;
+    font-size: 27px
 }
 
 .text {
@@ -102,6 +106,7 @@ body {
     background-size: cover;
     padding-top: 3%;
     color: white;
+    font-size: 20px
 }
 
 input[type="text"],
@@ -125,4 +130,5 @@ textarea::-webkit-input-placeholder {
 .foot-text h5 {
     padding-top: 1%;
     padding-bottom: 0;
+    color: black
 }
