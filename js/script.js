@@ -26,7 +26,7 @@ $(document).ready(function() {
         $('#product').toggle();
     });
 
-    //portfolio overlays
+    //portfolio overlay functions
     $(".one").mouseover(function() {
         $("#one").show();
     });
