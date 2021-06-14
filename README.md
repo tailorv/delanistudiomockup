@@ -4,7 +4,7 @@ _This project features a fictional studio and gives information about the servic
 
 #### **DESCRIPTION**
 *This project is the recreation of the landing page for a fictional studio using resources that include images used in the site, screenshots of how the website should look like, and videos of functionality.*
-![USER INTERFACE](images/screenshot.png) (USER INTERFACE)
+![USER INTERFACE](images/homepage.png) (USER INTERFACE)
 
 #### **LANGUAGES**
 1. HTML
