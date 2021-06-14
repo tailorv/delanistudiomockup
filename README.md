@@ -1,4 +1,5 @@
-### **DELANI STUDIO** Author Maxwell Munene
+### **DELANI STUDIO**
+# **Author - Maxwell Munene**
 _This project features a fictional studio and gives information about the services offered and projects done by the studio._
 
 #### **DESCRIPTION**
