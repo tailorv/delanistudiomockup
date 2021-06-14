@@ -8,22 +8,22 @@ _This project features a fictional studio and gives information about the servic
 #### **LANGUAGES**
 1. HTML
 2. CSS
-3. Bootstrap
-4. Javascript
+3. Javascript
+4. Bootstrap
 5. jQuery
 
 #### **OBJECTIVES**
-1. Recreate website layout
-2. Toggle 'what we do section'
+1. Recreate a website layout page
+2. Toggle 'About what we do section'
 * _Input: click on image_
 * _Expected output: toggle between image and description_
 3. Hover portfolio section
 * _Input: hover over image_
-* _Expected output: Name of project displays on white background_
-4. Send message to team
+* _Expected output: Name of services offered is displayed on white background_
+4. Send message / Reply to team
 * _Input: name. email, message_
 * _Expected output: confirmation message_
-5. Track user messages and emails using mailchimp
+5. Track user messages and emails using mail chimp
 
 #### **CONTACT**
 >Maxwell.Munene@student.moringaschoolcom <br>
