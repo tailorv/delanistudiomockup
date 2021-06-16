@@ -6,7 +6,7 @@ _This assignment project features a fictional studio and gives information about
 *This a recreation of the landing page for a fictional studio using resources provided here https://github.com/jonnygovish/IP3
 
 
-![USER INTERFACE](images/homepage.png) (USER INTERFACE)
+![USER INTERFACE](images/screenshot.png) (USER INTERFACE)
 
 #### **LANGUAGES**
 1. HTML
