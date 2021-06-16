@@ -25,7 +25,7 @@ _This assignment project features a fictional studio and gives information about
 
 4. Update a reply to the user through a pop up that you have received their message and also thank them for contacting you.
 
-5.Activate mail chimp API to track all the emails and messages from your users.
+5. Activate mail chimp API to track all the emails and messages from your users.
 
 6. Responsive Page.
 
