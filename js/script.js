@@ -81,7 +81,7 @@ $(document).ready(function() {
     $("form#my-form").submit(function(event) {
         event.preventDefault();
         var name = $("#name").val();
-        alert("Dear " + name + " Hello,we have received your message.Our support team will provide feedback in a few. Thank you.");
+        alert("Dear " + name + " Hello, we have received your message.Our support team will provide feedback in a few. Thank you.");
         document.getElementById("my-form").reset();
     })
 });
