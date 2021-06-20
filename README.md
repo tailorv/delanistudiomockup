@@ -3,7 +3,7 @@
 _This assignment project features a fictional studio and gives information about the services offered and projects done by the studio._
 
 #### **DESCRIPTION**
-*This a recreation of the landing page for a fictional studio using resources provided  on this link below https://github.com/jonnygovish/IP3
+This a recreation of the landing page for a fictional studio using resources provided  on this link below https://github.com/jonnygovish/IP3
 
 
 ![USER INTERFACE](images/screenshot.png) (USER INTERFACE)
