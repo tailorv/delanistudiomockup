@@ -6,7 +6,7 @@ body {
     height: auto;
 }
 
-//
+
 .welcome {
     grid-row-start: 1;
     grid-row-end: 2;
@@ -21,7 +21,8 @@ body {
     font-size:30px
 }
 
-//
+/
+
 .welcome h3 {
     padding-top: 15px;
     font-size: 50px

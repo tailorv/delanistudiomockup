@@ -77,11 +77,11 @@ $(document).ready(function() {
         $("#eight").hide();
     });
 
-    //submit message reply / feedback 
+    //submit message reply / feedback
     $("form#my-form").submit(function(event) {
         event.preventDefault();
         var name = $("#name").val();
-        alert("Dear " + name + " Hello, we have received your message.Our support team will provide feedback in a few. Thank you.");
+        alert("Dear " + name + " Hello,we have received your message.Our support team will provide feedback in a few. Thank you.");
         document.getElementById("my-form").reset();
     })
 });
