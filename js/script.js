@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-    //what we do section toggle
+    //what we do section toggle every description
     $('#design').click(function() {
         $(this).hide();
         $('.design').show();
