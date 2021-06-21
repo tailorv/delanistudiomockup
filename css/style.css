@@ -6,7 +6,6 @@ body {
     height: auto;
 }
 
-
 .welcome {
     grid-row-start: 1;
     grid-row-end: 2;
@@ -18,13 +17,12 @@ body {
     margin-top: 0px;
     padding-top: 12%;
     width: 100%;
-    font-size:30px
+    font-size: 30px;
 }
-
 
 .welcome h3 {
     padding-top: 15px;
-    font-size: 50px
+    font-size: 50px;
 }
 
 .welcome p {
@@ -45,7 +43,7 @@ body {
     padding-bottom: 5%;
     text-align: center;
     color: black;
-    font-size: 30px
+    font-size: 30px;
 }
 
 .services {
@@ -57,14 +55,14 @@ body {
     padding-top: 10%;
     padding-bottom: 7%;
     color: white;
-    font-size: 30px
+    font-size: 30px;
 }
 
 .toggle {
     grid-row-start: 4;
     grid-row-end: 5;
     padding-top: 3%;
-    font-size: 27px
+    font-size: 26px;
 }
 
 .text {
@@ -102,6 +100,7 @@ body {
     color: black;
     border: 2px solid white;
 }
+
 .contact {
     background: url(../images/backgrounds/c_image.jpg);
     background-size: cover;
@@ -130,5 +129,5 @@ textarea::-webkit-input-placeholder {
 .foot-text h5 {
     padding-top: 1%;
     padding-bottom: 0;
-    color: black
+    color: black;
 }
