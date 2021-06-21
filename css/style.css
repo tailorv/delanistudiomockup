@@ -102,13 +102,11 @@ body {
     color: black;
     border: 2px solid white;
 }
-
 .contact {
     background: url(../images/backgrounds/c_image.jpg);
     background-size: cover;
     padding-top: 3%;
     color: white;
-    font-size: 20px
 }
 
 input[type="text"],
