@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-    //what we do section toggle every description
+    //what we do section toggle
     $('#design').click(function() {
         $(this).hide();
         $('.design').show();
@@ -26,7 +26,7 @@ $(document).ready(function() {
         $('#product').toggle();
     });
 
-    //portfolio overlay functions
+    //portfolio overlays
     $(".one").mouseover(function() {
         $("#one").show();
     });
@@ -77,11 +77,11 @@ $(document).ready(function() {
         $("#eight").hide();
     });
 
-    //submit message reply / feedback
+    //submit message
     $("form#my-form").submit(function(event) {
         event.preventDefault();
         var name = $("#name").val();
-        alert("Dear " + name + " Hello, we have received your message.Our support team will provide feedback in a few. Thank you.");
+        alert("Dear " + name + " We have received your message / feedback.Our support team will reach out.Thank you.");
         document.getElementById("my-form").reset();
     })
 });
