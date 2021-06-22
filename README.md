@@ -5,6 +5,10 @@ _This assignment project features a fictional studio and gives information about
 #### **DESCRIPTION**
 This a recreation of the landing page for a fictional studio using resources provided  on this link below https://github.com/jonnygovish/IP3
 
+## EXTRA MILE
+I created a custom cursor effect by adding Delani logo as my cursor.
+The cursor has track motion effect that eneble the website to have a more interactive feel.
+
 
 ![USER INTERFACE](images/screenshot.png) (USER INTERFACE)
 
