@@ -79,10 +79,21 @@ $(document).ready(function() {
     });
 
     //submit message
-    $("form#my-form").submit(function(event) {
-        event.preventDefault();
-        var name = $("#name").val();
-        alert("Dear " + name + " We have received your message / feedback.Our support team will reach out.Thank you.");
-        document.getElementById("my-form").reset();
-    })
+});
+
+$(document).ready(function(){
+  $("form#form34A").submit(function(event){
+    // event.preventDefault();
+    var name = $("input#MERGE1").val();
+    var email = $("input#MERGE0").val();
+    var message = $("textarea#comment").val();
+    if ($("input#MERGE1").val() && $("input#MERGE0").val()){
+      alert (name + ",We have received your message / feedback.Our support team will reach out.Thank you.");
+    }
+    else {
+      alert("Please enter your name and email!");
+    }
+
+  });
+
 });
