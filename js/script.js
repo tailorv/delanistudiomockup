@@ -1,4 +1,3 @@
-
 $(document).ready(function() {
 
     //what we do section toggle
@@ -79,21 +78,10 @@ $(document).ready(function() {
     });
 
     //submit message
-});
-
-$(document).ready(function(){
-  $("form#form34A").submit(function(event){
-    // event.preventDefault();
-    var name = $("input#MERGE1").val();
-    var email = $("input#MERGE0").val();
-    var message = $("textarea#comment").val();
-    if ($("input#MERGE1").val() && $("input#MERGE0").val()){
-      alert (name + ",We have received your message / feedback.Our support team will reach out.Thank you.");
-    }
-    else {
-      alert("Please enter your name and email!");
-    }
-
-  });
-
+    $("form#my-form").submit(function(event) {
+        event.preventDefault();
+        var name = $("#name").val();
+        alert("Dear " + name + " we have received your message. Thank you for reaching out to us.");
+        document.getElementById("my-form").reset();
+    })
 });
