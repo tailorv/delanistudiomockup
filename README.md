@@ -1,16 +1,14 @@
-### **DELANI STUDIO**
+### **DESERT DEW SUPPLIES**
 # **Author - Maxwell Munene**
-_This assignment project features a fictional studio and gives information about the services offered and projects done by the studio._
+This is a Branding and Supply company.This website gives information about the services offered and products offered by the company.
 
-#### **DESCRIPTION**
-This a recreation of the landing page for a fictional studio using resources provided  on this link below https://github.com/jonnygovish/IP3
 
 ## EXTRA MILE
-I created a custom cursor effect by adding Delani logo as my cursor.
+Created a custom cursor effect by adding Desert Dew logo as my cursor.
 The cursor has track motion effect that eneble the website to have a more interactive feel.
 
 
-![USER INTERFACE](images/screenshot.png) (USER INTERFACE)
+![USER INTERFACE](images/desert.png) (USER INTERFACE)
 
 #### **LANGUAGES**
 1. HTML
@@ -20,12 +18,10 @@ The cursor has track motion effect that eneble the website to have a more intera
 5. jQuery
 
 #### **FEATURES / OBJECTIVES**
-## **To recreate a landing page for a fictional studio as shown below.**
- **All the resources that were provided in the assets folder, can be found here https://github.com/jonnygovish/IP3  
 
 1. 'What we do'  icons when clicked should toggle between the respective description of each icon.
 
-3. Hover effect for the **Portfolio ** sections such that on hover a white box appears with then name of the project inside. The project picture should still be visible in the background.
+3. Hover effect for the **samples ** sections such that on hover a white box appears with then name of the project inside. The project picture should still be visible in the background.
 
 4. Update a reply to the user through a pop up that you have received their message and also thank them for contacting you.
 
